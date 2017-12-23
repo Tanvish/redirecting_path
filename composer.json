@@ -1,0 +1,6 @@
+{
+    "name": "drupal/redirecting_path",
+    "description": "Module redirects the user to a provided node ID",
+    "type": "drupal-module",
+    "license": "GPL-2.0+"
+}

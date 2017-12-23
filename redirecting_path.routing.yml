@@ -1,0 +1,7 @@
+drupal_module.form:
+  path: '/drupal-module-form'
+  defaults: 
+    _title: 'Redirect Module Form'
+    _form: '\Drupal\redirecting_path\Form\RedirectingForm'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,5 @@
+name: Redirect Module
+description: Redirects user to a provided specific node ID
+package: Custom
+type: module
+core: 8.x
