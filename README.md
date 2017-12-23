@@ -1,4 +1,4 @@
-# drupal_module
+# redirecting_path
 
 
 Description:
